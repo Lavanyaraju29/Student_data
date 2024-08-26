@@ -3,4 +3,4 @@ const departmentSchema = require('../db/schemas/departmentSchema');
 
 const Department = mongoose.model('Department', departmentSchema);
 
-module.exports = Department
+module.exports = Department;
