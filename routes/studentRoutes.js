@@ -1,3 +1,4 @@
+//to import thr module express using require
 const express = require('express');
 const router = express.Router();
 const Student = require('../models/studentModel');
